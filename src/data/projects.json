@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Global Speak",
+    "imageSrc": "projects/p1.png",
+    "description": "A Speech-to-Text and translation system accurate transcription and multilingual support.",
+    "skills": ["React", "Tailwind CSS", "Whisper ML model"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/shakin-shahria/GlobalSpeak.git"
+  },
+  {
+    "title": "Buy Buzz",
+    "imageSrc": "projects/jk.png",
+    "description": "A React-based e-commerce site with hooks, context API, real-time updates and  online payment gateway.",
+    "skills": ["React","JavaScript","Tailwind CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/shakin-shahria/BuyBuzz.git"
+  },
+  {
+    "title": "E-Shoper",
+    "imageSrc": "projects/p3.png",
+    "description": "A Laravel-based e-commerce backend for inventory, orders, authentication, and real-time updates.",
+    "skills": ["Laravel", "Bootstrap", "MySql"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/shakin-shahria/OnlineRetailPlatform.git"
+  },
+
+  {
+    "title": "Star Gym",
+    "imageSrc": "projects/p4.png",
+    "description": "A React-based gym guide with personalized workouts and progress tracking.",
+    "skills": ["React","JavaScript","Tailwind CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/shakin-shahria/Star-Gym-ReactJs.git"
+  },
+
+  {
+    "title": "Sky Lens",
+    "imageSrc": "projects/p5.png",
+    "description": "This app fetches and displays NASA's Astronomy Picture of the Day (APOD).",
+    "skills": ["React","JavaScript","Tailwind CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/shakin-shahria/NasaAstroApp-ReactJs.git"
+  },
+
+  {
+    "title": "Todo List",
+    "imageSrc": "projects/p6.png",
+    "description": "A React-based Todo List application to manage daily tasks with add, edit, and delete functionality.",
+    "skills": ["React","JavaScript","Tailwind CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/shakin-shahria/TodoList-ReactJs.git"
+  }
+]
